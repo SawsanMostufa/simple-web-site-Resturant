@@ -1,0 +1,65 @@
+
+.img{
+
+width: 100%;
+height: 500px;
+
+}
+.lt
+{
+  background-color: brown;
+    width: 90%;
+    height: 2%; 
+}
+.sawsan{
+    color: white;
+    
+}
+.logo
+{
+width: 110px;
+height: 110;
+
+}
+.aboutus
+{   
+    background-color: brown;
+    text-align: center; 
+    margin: 15px;
+    height: 200px;
+    color:white;
+    border: 3px solid brown;
+}
+.img_about
+{
+    width: 100%;
+}
+
+.img_mid
+{
+    width: 100%;
+    height: 400px;
+
+}
+.footer
+{
+    background-color: brown;
+    text-align: center; 
+    width: 100%;
+    height: 200px;
+    color:white;
+}
+.img_center
+{
+    width: 100%;
+    height: 400px;
+   margin: 15px;
+
+}
+.contact_us
+{
+    text-align: center;
+    padding: 15px;
+
+}
+
